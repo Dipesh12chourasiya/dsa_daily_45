@@ -3,7 +3,7 @@
 This is where I **practice, solve, and upload** **Data Structures & Algorithms** problems **every day** to improve my problem-solving skills and prepare for **coding interviews**.
 
 ## 🤝 Contributing
-
+"https://leetcode.com/u/Dipesh_chourasiya/"
 This is my personal practice repo,  
 but if you'd like to suggest better **approaches** or **optimized solutions**, feel free to open a **pull request** or create an **issue**.
 
