@@ -8,7 +8,7 @@ import java.util.*;
 
 //T.C : O(m+n) where m = length of s and n = length of t
 //S.C : O(n)
-public class Solution {
+public class MInimum_Wndow_Substring {
     public String minWindow(String s, String t) {
         int n = s.length();
 
@@ -62,3 +62,13 @@ public class Solution {
         return minWindowSize == Integer.MAX_VALUE ? "" : s.substring(start_i, start_i + minWindowSize);
     }
 }
+
+
+
+
+
+
+
+
+
+
